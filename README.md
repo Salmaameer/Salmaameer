@@ -1,8 +1,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs%20student;No%20substitution%20for%20hard%25work&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs%20student;No%20substitution%20for%20hard%20work&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
+
+
+
 
 - 🏢 I am a student at Faculty of Computers and Artificial Intelligence Cairo University
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
