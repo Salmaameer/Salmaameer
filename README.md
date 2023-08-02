@@ -1,5 +1,5 @@
 
-## Salma amir jalal,Cs student who's interseted in UI/UX industry and keen to mastering it 
+## I'm Salma amir jalal,interseted in UI/UX industry and keen to mastering it 
 
 ## Programming languages
 
@@ -45,16 +45,3 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmaameer&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 
-<!--
-**Salmaameer/Salmaameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
