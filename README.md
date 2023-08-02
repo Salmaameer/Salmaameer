@@ -4,12 +4,6 @@
 ## Programming languages
 
 
-
-
-
-
-
-
 <p>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
@@ -23,7 +17,7 @@
 </p>
 
 <p>
-<img height="50" src="[Images/programming languages/django.svg](https://github.com/MohamedEssam71/MohamedEssam71/blob/main/Images/programming%20languages/django.svg)">&nbsp;&nbsp;
+<img height="50" src="django.svg">&nbsp;&nbsp;
 
 </p>
 
@@ -37,7 +31,7 @@
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179001975-07bf6017-536a-4ed6-8094-ebfcb3de5df7.png">
 </a> 
 
-<a href="https://codeforces.com/profile/Salma48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="salmaameer" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Salma48" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="salmaameer" height="30" width="40" /></a>
 
 <a href="https://t.me/Salmaameer">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179003173-7fe1e030-e834-441c-8293-dc618525ad6b.png">
