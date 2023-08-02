@@ -1,12 +1,13 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs%20Student%20&font=Fira%20Code&center=true&width=440&height=45&color=7096D1&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs%20Student%20;No%20substitution %20for%20hard%20work!&font=Fira%20Code&center=true&width=440&height=45&color=7096D1&vCenter=true&size=22"></a>
 </p> 
-<p>
-  - 🏢 I am a student at Faculty of Computers and Artificial Intelligence Cairo University
+
+- 🏢 I am a student at Faculty of Computers and Artificial Intelligence Cairo University
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 👨‍💻 I am currently learning  HTML , CSS , JavaScript , Python , CPP , Java and Django
-</p>
+
+
 
 
 <hr/>
@@ -42,7 +43,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
