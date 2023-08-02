@@ -22,13 +22,6 @@
 
 
 
-<hr/>
-<h3 align="left">Codeforces Profile:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/Salma48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="salmaameer" height="30" width="40" /></a>
-</p>
-
-<hr/>
 
 ## Contact me :
 
