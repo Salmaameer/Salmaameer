@@ -2,8 +2,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs%20Student%20&font=Fira%20Code&center=true&width=440&height=45&color=7096D1&vCenter=true&size=22"></a>
 </p> 
-
-
+- 🏢 I am a student at Faculty of Computers and Artificial Intelligence Cairo University
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I am currently learning  HTML , CSS , JavaScript , Python , CPP , Java and Django
 
 <hr/>
 <h3 align="left">Codeforces Profile:</h3>
@@ -16,8 +17,8 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/salma-ameer-088699231/" target="_blank"><img src="https://img.shields.io/badge/-MarwaSameh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwamostafa322@gmail.com)
-<a href="https://t.me/MarwaSameh03" target="_blank"><img src="https://img.shields.io/badge/-MarwaSameh-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmaameer409@gmail.com)
+<a href="https://t.me/MarwaSameh03" target="_blank"><img src="https://img.shields.io/badge/-SalmaAmeer-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Currently Learning 
 <p align="left">
   <div align="left">
