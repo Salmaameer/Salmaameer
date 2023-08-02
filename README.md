@@ -1,7 +1,7 @@
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cs%20Student%20;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7096D1&vCenter=true&size=22"></a>
+</p> 
 <!--
 **Salmaameer/Salmaameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
